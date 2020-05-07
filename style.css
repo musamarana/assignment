@@ -1,0 +1,20 @@
+*{
+    color: white;
+}
+#full{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#inner{
+    background-color: slateblue;
+}
+#head,#foot{
+    text-align: center;
+}
+#big{
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+a{
+    color: black;
+}
